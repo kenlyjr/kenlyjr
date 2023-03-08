@@ -1,17 +1,23 @@
 ### Hi there 👋
 
-<!--
-**kenlyjr/kenlyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kenly Rojas
+## Actualmente trabajo en una start up de tecnología como Analista de implementación.
+Mi aspiración es ser **Frontend Developer.**
 
-Here are some ideas to get you started:
+### Actualmente vivo en Medellín, Colombia pero originalmente soy de Venezuela.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**Kenly Rojas- Implementation Analyst**
+***Aprender cada día y disfrutar del camino***🚀
+
+|Comando                 | Descripción              |
+|------------------------|--------------------------|
+| Ls        | Listar contenido de un directorio     | 
+| touch     | Crear nuevo archivo                   | 
+| whoami    | Conocer noombre del usuario actual    | 
+| df        | Espacio libre en el disco             | 
+| Ctrl+W    | Eliminar palabras                     | 
+
+
+|Comando   Alias         | Descripción              |
+|------------------------|--------------------------|
+| alias findd="ls ~/ | grep $1     | filtrar carpetas de usuarios da una palabra | 
+| gs                 |  Git status                                               | 
