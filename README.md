@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi, I'm Kenly Rojas
+# Hi there 👋, I'm Kenly Rojas
 ## Actualmente trabajo en una start up de tecnología como Analista de implementación.
 Mi aspiración es ser **Frontend Developer.**
 
