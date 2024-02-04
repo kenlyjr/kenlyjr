@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Kenly Rojas
-## Actualmente trabajo en una start up de tecnología como Analista de implementación.
+## Soy Ingeniero en Informática con background en QA Manual.
 Mi aspiración es ser **Frontend Developer.**
 
 ### Actualmente vivo en Medellín, Colombia pero originalmente soy de Venezuela.
