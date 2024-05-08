@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Kenly Rojas
-## Soy Ingeniero en Informática con background en QA Manual.
-Mi aspiración es ser **Frontend Developer.**
+## I'm a Computer Engineer and also QA Enginerr
 
-### Actualmente vivo en Medellín, Colombia pero originalmente soy de Venezuela.
+### I currently live in Medellín, Antioquia.
 
-***Aprender cada día y disfrutar del camino***🚀
+***Learn every day and enjoy your own journey***🚀
