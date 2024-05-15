@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Kenly Rojas
-## I'm a Computer Engineer and also QA Enginerr
+## I'm a Computer Engineer and also QA Engineer
 
 ### I currently live in Medellín, Antioquia.
 
